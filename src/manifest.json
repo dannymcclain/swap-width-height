@@ -1,0 +1,14 @@
+{
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Swap Width & Height",
+      "identifier": "swap-width-height",
+      "script": "./swap-width-height.js"
+    }
+  ],
+  "menu": {
+    "title": "Swap Width & Height",
+    "items": ["swap-width-height"]
+  }
+}
