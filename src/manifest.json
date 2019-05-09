@@ -1,14 +1,20 @@
 {
+  "name": "➰ Swap Width & Height",
+  "description": "Swap a layer's width and height.",
   "icon": "icon.png",
+  "author": "@dannymcclain",
+  "authorEmail": "dannyxmcclain@gmail.com",
+  "bundleVersion": 1,
   "commands": [
     {
-      "name": "Swap Width & Height",
+      "name": "Swap",
       "identifier": "swap-width-height",
-      "script": "./swap-width-height.js"
+      "script": "./swap-width-height.js",
+      "shortcut": "ctrl alt cmd x"
     }
   ],
   "menu": {
-    "title": "Swap Width & Height",
+    "title": "➰ Swap Width & Height",
     "items": ["swap-width-height"]
   }
 }
