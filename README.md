@@ -1,6 +1,8 @@
 # Swap Width & Height Sketch Plugin
 Quickly swap a layer's width & height values.
 
+<img src="https://swap-width-height.dannymcclain.com/static/swap.gif" width="380px" />
+
 ## Installation
 
 - [Download](../../releases/latest/download/swap-width-height.sketchplugin.zip) the latest release of the plugin
