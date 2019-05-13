@@ -1,5 +1,5 @@
 {
-  "name": "➰ Swap Width & Height",
+  "name": "Swap Width & Height",
   "description": "Swap a layer's width and height.",
   "icon": "icon.png",
   "author": "@dannymcclain",
@@ -14,7 +14,7 @@
     }
   ],
   "menu": {
-    "title": "➰ Swap Width & Height",
+    "title": "Swap Width & Height",
     "items": ["swap-width-height"]
   }
 }
