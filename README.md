@@ -1,4 +1,5 @@
-# swap-width-height
+# Swap Width & Height Sketch Plugin
+Quickly swap a layer's width & height values.
 
 ## Installation
 
